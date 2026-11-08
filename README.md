@@ -1,2 +1,2 @@
-# Solar-Power-Design
+# Solar Power Design
 نرم‌افزار طراحی نیروگاه خورشیدی
